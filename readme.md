@@ -1,7 +1,7 @@
 # Femicide Cases in Kenya - Data Analysis (2016-2023)
 
 > A data-driven investigation into femicide patterns across Kenya using Excel Power Query, Pivot Tables, and an interactive dashboard.
-
+https://dev.to/nelly_mogere_194bac0cb2ba/analysing-8-years-of-femicide-in-kenya-with-excel-a-data-story-2o88
 ---
 
 ## Project Overview
